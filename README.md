@@ -1,2 +1,2 @@
 # todo_list
-todo list application using SQL database interaction using PostgreSQL 
+todo list application using SQL database, interacting with SQL database using PostgreSQL 
